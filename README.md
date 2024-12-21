@@ -14,9 +14,6 @@ _"Tu es un robot qui tire des pastilles jaunes"_ est un jeu mêlant réflexion e
   - La charge diminue avec le temps, en courant, ou en tirant des projectiles.
 - **Combat dynamique** : Affrontez des ennemis tout en équilibrant vos ressources pour survivre.
 
-### Système de Puzzle :
-Le puzzle repose sur l'activation de **trois terminaux** dans un ordre précis. Les indices pour résoudre ce puzzle se trouvent dans la première salle, dissimulés parmi les obstacles.
-
 ## Technologies Utilisées
 - **Unity** : Moteur de jeu utilisé pour le développement.
 - **C#** : Langage de programmation principal.
