@@ -20,7 +20,6 @@ Le puzzle repose sur l'activation de **trois terminaux** dans un ordre précis. 
 ## Technologies Utilisées
 - **Unity** : Moteur de jeu utilisé pour le développement.
 - **C#** : Langage de programmation principal.
-- **3D Modeling** : Création d'assets et environnement 3D.
 
 ## Installation
 
